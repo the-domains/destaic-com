@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C8C8C0'
+    - '#78A000'
+    - '#A09060'
+    - '#A8D008'
+    - '#000000'
+  brandStrength: 0.939008569922186
+  lightness: 0.557650893791748
+  rhythmicContrast: 0.4833949861309429
+  saturation: 0.127257692026862
+cta: {}
+layout_spectrum: 0.391447
+name: destaic.com
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.891447
